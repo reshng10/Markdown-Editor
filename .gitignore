@@ -1,0 +1,13 @@
+# Ignore .idea folder (JetBrains IDEs)
+.idea/
+
+# Ignore other IDE or OS-specific files (optional)
+.DS_Store   # macOS specific
+Thumbs.db   # Windows specific
+
+# Ignore node_modules (if you're using Node.js)
+node_modules/
+
+# Ignore other build artifacts or temporary files if needed
+*.log
+*.tmp
